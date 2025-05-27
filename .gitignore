@@ -1,5 +1,4 @@
 .DS_Store
-dist/
 coverage/
 public/
 src/__GENERATED_TYPES__
